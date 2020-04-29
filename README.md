@@ -1,4 +1,4 @@
-# Juego del gato y el ratón
+# Cat and Mouse Game
 In the following documents are the steps followed to implement a cat drone that automatically chases a JdeRobot mouse drone.
 
 ## The problem
